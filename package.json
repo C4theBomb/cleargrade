@@ -1,0 +1,23 @@
+{
+    "name": "cleargrade",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/C4theBomb/cleargrade.git"
+    },
+    "author": "Collegiate School of Medicine and Bioscience",
+    "license": "SEE LICENSE IN LICENSE",
+    "bugs": {
+        "url": "https://github.com/C4theBomb/cleargrade/issues"
+    },
+    "homepage": "https://github.com/C4theBomb/cleargrade#readme",
+    "dependencies": {
+        "@microsoft/teams-js": "^1.11.0",
+        "@microsoft/teamsfx": "^0.6.2"
+    }
+}
